@@ -51,7 +51,7 @@ wooshopxingyun-ui 前端源码
 
 |     |   后端源码  |   前端源码  |
 |---  |--- | --- |
-|  码云   |   https://gitee.com/xingyunshop/xingyunshopjava   |      |
+|  码云   |   https://gitee.com/xingyunshop/xingyunshopjava   |   https://gitee.com/xingyunshop/eladmin-wooxingyunshop-ui   |
 |  GitHub   |  https://github.com/wooshopxingyun/wooshopxinyun-shop-java    |      |
 
 #### 开发文档
